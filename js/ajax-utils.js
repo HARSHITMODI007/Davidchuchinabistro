@@ -2,8 +2,9 @@
 
 // Set up a namespace for our utility
 var ajaxUtils = {};
-var cors = require('cors');
-ajaxUtils.use(cors());
+// var cors =
+ // require('cors');
+// ajaxUtils.use(cors());
 // Returns an HTTP request object
 function getRequestObject() {
   if (window.XMLHttpRequest) {
