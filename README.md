@@ -1,21 +1,39 @@
-David Chu's China Bistro
-The site is published at https://harshitmodi007.github.io/Davidchuchinabistro/
-Description
-This was the final project I did as a part of a Coursera course - HTML,CSS and JavaScript For Web Developers. This is fairly a basic multi-page responsive website of a fictitious restaurant, which can be used as a template for building restaurant portfolio websites.
+# David Chu's China Bistro
 
-It showcases the basic features of a restaurant such as main seating area,google location,menu categories,working hours and reviews. Besides, there's also a Specials category which is randomly updated every time the Specials category page loads - so that you can get a flavour of all ;-) (All thanks to JavaScript!).
+A responsive website for a fictional restaurant, showcasing the menu, specials, and contact information.
 
-This website also implements responsiveness for comfortable user experience in all kinds of devices.
+## Description
 
-This project was my first real delve into Web Development.
+This project is a front-end implementation of a restaurant website using HTML, CSS, and JavaScript. It features a responsive design, interactive menu, and integration with Google Maps.
 
-Limitations
-The About and Awards options have not been implemented yet.
-The home page currently has one static image of a restaurant, which I intend to turn into an image slideshow as the Gallery of the restaurant later.
-The overall functionality of this website is basic and can be made more efficient to create a real world product.
-Key Learnings
-Learning HTML5,CSS and JavaScript all from scratch
-Learning about media queries and implementing responsiveness
-Working with tools such as Visual Studio Code
-A glimpse into the World Of Web
-Making code readable and documentation
+## Installation
+
+1. Clone the repository:
+2. Open `index.html` in your browser.
+
+## Usage
+
+Navigate through the site to view:
+- Menu items
+- Daily specials
+- Restaurant location
+- Contact information
+
+## Features
+
+- Responsive design
+- Interactive menu
+- Google Maps integration
+- Mobile-friendly layout
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and create a pull request with your changes.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+## Live Demo
+
+Check out the live site [here](https://harshitmodi007.github.io/Davidchuchinabistro/).
